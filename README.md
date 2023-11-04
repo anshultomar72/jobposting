@@ -19,7 +19,7 @@ git clone <repository_url>
 Navigate to the project directory:
 
 ```bash
-cd job-listing
+cd jobposting
 
 ```
 ## Configuration
